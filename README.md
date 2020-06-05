@@ -43,6 +43,6 @@ As you can see above, some of the ground truth images contain haze. This situati
 
 Therefore, I suggest people who wanted to train their own model on Reside V0 OTS to filter the dataset first / train with ITS which can generate stronger dehazing result.
 
-Full report:https://drive.google.com/file/d/1NjMLDqA9KukK3F5PZlF_BwVp27fBt6FW/view?usp=sharing<br/>
+Full report: https://drive.google.com/file/d/1NjMLDqA9KukK3F5PZlF_BwVp27fBt6FW/view?usp=sharing<br/>
 Summary Paper: https://drive.google.com/file/d/13HYfw8dQl2exK8v2kl_O67zOW7mWxYPg/view?usp=sharing<br/>
 Model weights: https://drive.google.com/drive/folders/1UUGalqQeu3JTnu2wBUyPRQJodmznEI5q?usp=sharing
