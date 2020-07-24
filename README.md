@@ -10,7 +10,7 @@ The model is built using Tensorflow and Keras. Three training dataset are used f
 
 **Indoor Training Set (ITS)**: RESIDE: V0 ITS 13,990 images *(Note: has been updated to 110,000 images)*
 
-**Outdoor Training Set (OTS)**: RESIDE: V0 OTS 296,730 images *(Note: removed duplicated images in Synthetic Objective Test Set(SOTS) and corrupted images)*
+**Outdoor Training Set (OTS)**: RESIDE: V0 OTS 296,723 images *(Note: removed duplicated images in Synthetic Objective Test Set(SOTS) and corrupted images)*
 
 **Combine (ITS & OTS)**: 30,945 images (All 13,990 ITS and OTS images with B = 0.2 and A = 0.8 and 1 *(Note: we ran last few more iterations on ITS images only, to focus on dehazing strength)* 
 
